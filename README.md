@@ -81,13 +81,13 @@ Output packages are placed in the `release/` directory.
 ### The interface at a glance
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  Project ▼   │  Data Path 📁  │  Clear  │  ◀ Previous  │  Archive ┤
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│   Editor area — write your prompt here                   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────┐
+│  Project ▼  │  Data Path 📁  │  Clear  │  ◀ Previous  │  Archive   │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│   Editor area — write your prompt here                             │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 The toolbar at the top contains all controls. The large area below is the editor.
