@@ -82,7 +82,7 @@ Output packages are placed in the `release/` directory.
 
 ```
 ┌────────────────────────────────────────────────────────────────────┐
-│  Project ▼  │  Data Path 📁  │  Clear  │  ◀ Previous  │  Archive   │
+│  Project ▼  │  Data Path 📁  │  Clear  │  ◀ Previous  │  Archive  │
 ├────────────────────────────────────────────────────────────────────┤
 │                                                                    │
 │   Editor area — write your prompt here                             │
