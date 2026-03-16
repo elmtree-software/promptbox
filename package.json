@@ -11,8 +11,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build && electron-builder",
-    "build:win": "vite build && electron-builder --win",
-    "build:linux": "vite build && electron-builder --linux",
+    "build:win": "vite build && electron-builder --win --publish never",
+    "build:linux": "vite build && electron-builder --linux --publish never",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -32,7 +32,6 @@
     "vite-plugin-electron-renderer": "^0.14.5"
   },
   "build": {
-    "publish": "never",
     "appId": "com.promptbox.app",
     "productName": "PromptBox",
     "directories": {
