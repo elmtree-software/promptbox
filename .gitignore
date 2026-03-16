@@ -1,0 +1,13 @@
+node_modules/
+dist/
+dist-electron/
+release/
+
+# User data — these are created at runtime
+data/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
