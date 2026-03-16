@@ -2,6 +2,7 @@
   "name": "promptbox",
   "version": "1.0.0",
   "description": "A beautiful prompt editor and archive tool",
+  "homepage": "https://github.com/elmtree-software/promptbox",
   "author": {
     "name": "elmtree-software",
     "email": "info@elmtree.ai"
